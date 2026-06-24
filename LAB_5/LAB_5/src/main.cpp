@@ -4,7 +4,7 @@
 #include <util/delay.h>
 #include <stdlib.h>
 
-#define GAS_THRESHOLD 200
+#define GAS_THRESHOLD 500
 
 //------------------------------------------------
 // UART Functions
